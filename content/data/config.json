@@ -46,7 +46,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "My details",
             "phoneAltText": "My phone number",
             "email": "arijitdutta4006@gmail.com",
             "emailAltText": "My email",
